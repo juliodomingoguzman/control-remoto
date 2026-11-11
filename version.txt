@@ -1,3 +1,3 @@
-version=4.8
-url=https://github.com/juliodomingoguzman/control-remoto/releases/download/v4.8/TecniMotos4.8HWID.exe
-sha256=d420191c4f97744884096ee3d0a3dab11010968457eb366c91e2f6a3edb37fe4
+version=4.9
+url=https://github.com/juliodomingoguzman/control-remoto/releases/download/v4.9/TecniMotos4.9HWID.exe
+sha256:66b18b34fe5bcee6773775a01dce862b0ebc292e114bb554114056ae6c04738e
