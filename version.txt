@@ -1,2 +1,2 @@
-version= 
-url=
+version=4.8
+url=https://www.mediafire.com/file/2s8n9yjkw4knsk9/sistemaventa4.8.exe/file
