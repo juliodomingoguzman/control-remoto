@@ -1,3 +1,4 @@
 version=5.0
-url=https://github.com/juliodomingoguzman/control-remoto/releases/download/v5.0/TecniMotos5.0HWID.exe
-sha256:580e5b0682662cb508b6316184f1dae169a35bc070a4c5de64fc5bc894f25071
+url=https://github.com/juliodomingoguzman/control-remoto/releases/download/v5.1/TecniMotos5.1HWID.exe
+sha256:1e4a668f99abf76df485fc9a965b90d7b821e7c330a2c27c7aa3c933add49c1f
+
